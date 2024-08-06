@@ -11,7 +11,9 @@ UNDP Human Development Indicator: 0.644 (India)
 
 RoUs Generated During 1st Monitoring Period: 17,438
  ____
- The project activity recycles wastewater from 77 Tanneries within the
+Ranipet, a town about 120 kms from chennai has a large concentration of tanneries processing hides and skins from raw to finish. 
+
+The project activity recycles wastewater from 77 Tanneries within the
 defined project boundary and reuses the treated water into the
 process of these leather industries. The project activity showcases
 efficient reuse of industrial wastewater as a key corporate
